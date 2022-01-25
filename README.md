@@ -41,6 +41,7 @@ I have simple dream. I wanna be a Front End Developer
 
 <br />
 <br />
+
 ---
 
 <img align="left" alt="monique38's GitHub Stats" src = "https://github-readme-stats.vercel.app/api?username=monique38&show_icons=true&theme=radical&hide_border=true" />
