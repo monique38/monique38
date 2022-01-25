@@ -7,8 +7,6 @@ I have simple dream. I wanna be a Front End Developer
 - 🤔 I’m looking for project for beginner to learn new stuff.
 - 📫 How to reach me: m.j.sworowska@gmail.com
 - ⚡ Fun fact: I like try new things like pottery or golf lately.
-<!--:computer: Most used line of code `git commit -m "Initial Commit"`-->  
-<br />
 
 ### Connect with me:
 
