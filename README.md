@@ -4,7 +4,7 @@ I have simple dream. I wanna be a Front End Developer
 ---
 
 - 🔭 I’m currently learning JavaScript
-- 🤔 I’m looking for project for beginner to learn new stuff.
+- 🤔 I’m looking for projects for beginners to learn new stuff.
 - 📫 How to reach me: m.j.sworowska@gmail.com
 - ⚡ Fun fact: I like try new things like pottery or golf lately.
 
